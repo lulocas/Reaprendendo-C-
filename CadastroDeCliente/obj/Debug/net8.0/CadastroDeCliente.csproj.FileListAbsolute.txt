@@ -1,0 +1,15 @@
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.AssemblyInfoInputs.cache
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.AssemblyInfo.cs
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.csproj.CoreCompileInputs.cache
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.sourcelink.json
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\bin\Debug\net8.0\CadastroDeCliente.exe
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\bin\Debug\net8.0\CadastroDeCliente.deps.json
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\bin\Debug\net8.0\CadastroDeCliente.runtimeconfig.json
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\bin\Debug\net8.0\CadastroDeCliente.dll
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\bin\Debug\net8.0\CadastroDeCliente.pdb
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.dll
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\refint\CadastroDeCliente.dll
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.pdb
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\CadastroDeCliente.genruntimeconfig.cache
+C:\Users\desch\OneDrive\Documentos\C#\Reaprendendo\CadastroDeCliente\obj\Debug\net8.0\ref\CadastroDeCliente.dll
